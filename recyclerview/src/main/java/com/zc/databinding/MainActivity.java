@@ -8,6 +8,9 @@ import com.zc.databinding.bean.MainBean;
 import com.zc.databinding.databinding.ActivityMainBinding;
 import com.zc.databinding.viewmodel.MainViewModel;
 
+/**
+ * https://github.com/ljnjiannan/MvvmTest/tree/v0.0.2
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
