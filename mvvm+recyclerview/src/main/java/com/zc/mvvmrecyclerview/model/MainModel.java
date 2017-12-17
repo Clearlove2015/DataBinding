@@ -1,4 +1,4 @@
-package com.zc.mvvmrecyclerview;
+package com.zc.mvvmrecyclerview.model;
 
 /**
  * Created by zc on 2017/12/17.

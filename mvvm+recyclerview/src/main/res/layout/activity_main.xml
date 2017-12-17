@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.zc.mvvmrecyclerview.MainViewModel"/>
+            type="com.zc.mvvmrecyclerview.viewmodel.MainViewModel"/>
         <import type="me.tatarka.bindingcollectionadapter.LayoutManagers"/>
     </data>
 

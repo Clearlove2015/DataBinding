@@ -1,5 +1,8 @@
-package com.zc.mvvmrecyclerview;
+package com.zc.mvvmrecyclerview.viewmodel;
 
+import com.zc.mvvmrecyclerview.BR;
+import com.zc.mvvmrecyclerview.model.MainModel;
+import com.zc.mvvmrecyclerview.R;
 import com.zc.mvvmrecyclerview.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;

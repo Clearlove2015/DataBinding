@@ -1,9 +1,11 @@
-package com.zc.mvvmrecyclerview;
+package com.zc.mvvmrecyclerview.view;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.zc.mvvmrecyclerview.viewmodel.MainViewModel;
+import com.zc.mvvmrecyclerview.R;
 import com.zc.mvvmrecyclerview.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
